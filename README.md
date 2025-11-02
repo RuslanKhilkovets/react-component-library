@@ -16,6 +16,7 @@ pnpm install
 npm install
 # or
 yarn install
+```
 
 ## 📸 Component Previews
 
@@ -50,4 +51,7 @@ Here are visual previews of the UI components included in this library.
 |         ![Toast](./preview/toast.png)         | Default toast notification            |
 |  ![Toast - Sizes](./preview/toast-sizes.png)  | Toast component in different sizes    |
 | ![Toast - Colors](./preview/toast-colors.png) | Toast component with color variations |
+
+```
+
 ```
