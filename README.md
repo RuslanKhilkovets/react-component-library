@@ -37,10 +37,10 @@ Here are visual previews of the UI components included in this library.
 
 ### 🧭 Sidebar Menu
 
-|                     Preview                     | Description                |
-| :---------------------------------------------: | :------------------------- |
-|    ![Sidebar Closed](./preview/sidebar.png)     | Sidebar in collapsed state |
-| ![Sidebar Opened](./preview/sidebar-opened.png) | Sidebar in expanded state  |
+|                     Preview                     | Description                   |
+| :---------------------------------------------: | :---------------------------- |
+|    ![Sidebar Closed](./preview/sidebar.png)     | Sidebar with closed collapses |
+| ![Sidebar Opened](./preview/sidebar-opened.png) | Sidebar with opened collapses |
 
 ---
 
@@ -51,7 +51,3 @@ Here are visual previews of the UI components included in this library.
 |         ![Toast](./preview/toast.png)         | Default toast notification            |
 |  ![Toast - Sizes](./preview/toast-sizes.png)  | Toast component in different sizes    |
 | ![Toast - Colors](./preview/toast-colors.png) | Toast component with color variations |
-
-```
-
-```
